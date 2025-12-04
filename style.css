@@ -18,8 +18,8 @@ body {
   
 
 .content{  
-  border-radius: 40px;        /* Rounded inner border */
-  margin: 80px;               /* Creates the border space */
+  border-radius: 40px;        
+  margin: 80px;              
   padding: 1rem;
   min-height: 90vh;  /* Make sure it fills at least one screen height */
   box-shadow: 0 0 0 50px #ffe2f5; 
@@ -43,6 +43,7 @@ body {
       margin: 0 auto;
       margin-bottom: 0;
       padding: 0; 
+      font-family: "Rum Raisin", sans-serif;
     }
 .links {
       display: flex;
