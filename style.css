@@ -34,7 +34,7 @@ body {
       margin-bottom: 0;
       font-weight: 200;
     }
- .navbar {
+ navbar {
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -43,7 +43,7 @@ body {
       margin-bottom: 0;
       padding: 0; 
       font-family: "Rum Raisin", sans-serif;
-      background: #9D74AB;
+      background: #BE9BCC;
     }
 .links {
       display: flex;
