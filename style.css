@@ -43,11 +43,11 @@ navbar {
       margin-bottom: 0;
       padding: 0; 
       font-family: "Rum Raisin", sans-serif;
-      background-color: #BE9BCC;
     }
 .links {
       display: flex;
       gap: 20px;
+      background-color: #BE9BCC;
     }
 .links a {
       color: #fff;
