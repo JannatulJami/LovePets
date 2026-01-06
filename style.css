@@ -9,7 +9,7 @@
 }
 
 
-body {
+body{
   overflow-x: hidden;
   min-height: 100vh;
   padding: 0;
@@ -24,7 +24,7 @@ body {
   min-height: 90vh;  /* Make sure it fills at least one screen height */
   box-shadow: 0 0 0 50px #ffe2f5; 
 }
-header {
+header{
       position: fixed;
       left: 0;
       top: 0;
@@ -34,11 +34,12 @@ header {
       margin-bottom: 0;
       font-weight: 200;
 }
-nav {
-      display: flex;
+nav{
+      position: absolute;
       justify-content: space-between;
-      align-items: center;
-      max-width: 90%;
+      top: 100%;
+      right: 0;
+      width: 40%;
       margin: 0 auto;
       margin-bottom: 0;
       padding: 0; 
