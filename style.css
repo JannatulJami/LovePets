@@ -44,18 +44,15 @@ nav{
       margin-bottom: 0;
       padding: 0; 
       font-family: "Rum Raisin", sans-serif;
-      background-color: #BE9BCC;
-}
-.links {
       display: flex;
       gap: 150px;
 }
-.links a {
-      color: #fff;
+nav a{
+      color: purple;
       text-decoration: none;
       font-size: 18px;
       transition: color 0.3s ease;
 }
-.links a:hover {
+nav a:hover {
       color: #c9a0dc;
     }
