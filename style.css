@@ -34,6 +34,7 @@ header{
       margin-bottom: 0;
       font-weight: 200;
       display: flex;
+      justify-content: space-between;
 }
 nav{
       font-family: "Rum Raisin", sans-serif;
