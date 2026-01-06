@@ -39,6 +39,7 @@ nav{
       font-family: "Rum Raisin", sans-serif;
       display: flex;
       gap: 15px;
+      margin-left: 4rem;
 }
 nav a{
       color: purple;
