@@ -36,17 +36,9 @@ header{
       display: flex;
 }
 nav{
-      position: absolute;
-      justify-content: space-between;
-      top: 100%;
-      right: 0;
-      width: 40%;
-      margin: 0 auto;
-      margin-bottom: 0;
-      padding: 0; 
       font-family: "Rum Raisin", sans-serif;
       display: flex;
-      gap: 150px;
+      gap: 15px;
 }
 nav a{
       color: purple;
