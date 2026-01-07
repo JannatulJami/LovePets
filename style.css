@@ -60,3 +60,11 @@ nav a{
 nav a:hover {
       color: #c9a0dc;
     }
+
+.times{
+  position:fixed;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  bac
+}
