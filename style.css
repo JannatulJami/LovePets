@@ -16,7 +16,12 @@ body{
   margin: 0;
 }
   
-
+.home{
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  gap: 8rem;
+}
 .home-content{  
   border-radius: 40px;        
   margin: 80px;              
@@ -36,6 +41,7 @@ header{
       display: flex;
       justify-content: space-between;
 }
+
 nav{
       font-family: "Rum Raisin", sans-serif;
       display: flex;
