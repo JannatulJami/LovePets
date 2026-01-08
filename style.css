@@ -69,11 +69,10 @@ home-content_2{
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 8rem;
+  gap: 100px;
 }
 .times{
   display: flex;
-  flex-direction: column;
   justify-content: center; 
   align-items: center;
   background-color: #BE99C2;
