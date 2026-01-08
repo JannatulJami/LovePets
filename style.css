@@ -26,6 +26,9 @@ body{
 }
 .home-img{
   position: relative;
+  width: 60%;
+  height: 60%;
+  border-color: #A287A8;
 }
 .home-content{  
   border-radius: 40px;        
