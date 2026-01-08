@@ -62,7 +62,11 @@ nav a{
 nav a:hover {
       color: #c9a0dc;
     }
-
+home-content_2{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
 .times{
   display: flex;
   flex-direction: column;
