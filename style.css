@@ -35,7 +35,8 @@ body{
   margin: 0px;              
   padding: 1rem;
   min-height: 90vh;  
-   
+  justify-content: center;
+  align-items: center;
 }
 header{
       position: fixed;
