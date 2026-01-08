@@ -24,7 +24,7 @@ body{
   align-items: center;
   gap: 8rem;
 }
-.home-img{
+.home-img img{
   position: relative;
   width: 60%;
   height: 60%;
