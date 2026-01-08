@@ -3,7 +3,6 @@
 *{
   margin: 0;
   padding: 0;
-  background-color: #fce5fc;
   font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
 }
@@ -14,6 +13,9 @@ body{
   min-height: 100vh;
   padding: 0;
   margin: 0;
+  background-color: #fce5fc;
+  overflow-x: hidden;
+  min-height: 100vh;
 }
   
 .home{
@@ -62,10 +64,11 @@ nav a:hover {
     }
 
 .times{
-  position:fixed;
   display: flex;
+  flex-direction: column;
   justify-content: center; 
   align-items: center;
   background-color: #BE99C2;
   padding: 2em;
+  margin-top: 4rem;
 }
