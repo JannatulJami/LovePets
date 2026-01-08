@@ -64,8 +64,8 @@ nav a:hover {
     }
 home-content_2{
   display: flex;
-  justify-content: flex-start;
-  align-items: flex-start;
+  justify-content: center;
+  align-items: center;
 }
 .times{
   display: flex;
@@ -76,4 +76,12 @@ home-content_2{
   padding: 2em;
   margin-top: 4rem;
   border-radius: 20px;
+}
+
+.about{
+  display: flex;
+  margin: 80px;              
+  padding: 1rem;
+  border-radius: 20px;
+  background-color: #A287A8;
 }
