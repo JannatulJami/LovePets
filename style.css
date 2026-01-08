@@ -23,6 +23,7 @@ body{
   justify-content: center; 
   align-items: center;
   gap: 8rem;
+  padding: 6rem 4rem;
 }
 .home-img img{
   position: relative;
