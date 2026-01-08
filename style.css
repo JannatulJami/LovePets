@@ -75,7 +75,7 @@ nav a:hover {
 }
 .times{
   display: flex;
-  justify-content: center; 
+  justify-content: columns; 
   align-items: center;
   background-color: #BE99C2;
   padding: 2em;
