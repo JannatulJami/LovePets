@@ -66,6 +66,7 @@ home-content_2{
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 8em;
 }
 .times{
   display: flex;
