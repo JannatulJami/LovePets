@@ -93,3 +93,50 @@ nav a:hover {
   border-radius: 20px;
   background-color: #A287A8;
 }
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  padding: 30px;
+}
+
+.pet-card {
+  background: white;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.pet-card:hover {
+  transform: translateY(-5px);
+}
+
+.pet-card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.pet-card h2 {
+  margin: 15px;
+  font-size: 1.4rem;
+}
+
+.meta {
+  margin: 0 15px;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.age {
+  margin: 5px 15px;
+  font-weight: bold;
+}
+
+.desc {
+  margin: 15px;
+  font-size: 0.95rem;
+  color: #444;
+}
